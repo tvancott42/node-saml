@@ -2,6 +2,8 @@
 
 Create SAML assertions. Supports SAML 1.1 and SAML 2.0 tokens.
 
+Modified to not load XML templates from the file system. Based on 3.0.1.
+
 [![Build Status](https://travis-ci.org/auth0/node-saml.png)](https://travis-ci.org/auth0/node-saml)
 
 ### Supported Node Versions

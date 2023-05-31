@@ -1,6 +1,6 @@
 {
-  "name": "saml",
-  "version": "3.0.0",
+  "name": "saml-nofs",
+  "version": "3.0.1",
   "engines": {
     "node": ">=12"
   },
@@ -14,12 +14,12 @@
     "standard-version": "^9.0.0"
   },
   "main": "./lib",
-  "repository": "https://github.com/auth0/node-saml",
+  "repository": "https://github.com/tvancott42/node-saml",
   "keywords": [
     "saml",
     "authentication"
   ],
-  "author": "Matias Woloski (Auth0)",
+  "author": "TJ Van Cott (NetRadius)",
   "license": "MIT",
   "dependencies": {
     "@xmldom/xmldom": "^0.7.4",
